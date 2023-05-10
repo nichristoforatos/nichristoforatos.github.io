@@ -1,1 +1,6 @@
-# nichristoforatos.github.io
+```mermaid
+graph LR;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
